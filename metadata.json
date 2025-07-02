@@ -1,0 +1,6 @@
+{
+  "name": "PDF Quizzer",
+  "description": "Upload a PDF document and this application will generate an interactive quiz based on its content, with unlimited, randomly generated questions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
